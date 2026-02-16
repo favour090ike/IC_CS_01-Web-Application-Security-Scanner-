@@ -37,5 +37,4 @@ This tool crawls a target website, checks for missing security headers, and perf
 
 ---
 
-git clone https://github.com/YOUR_USERNAME/IC_CS_01.git
-cd IC_CS_01
+
